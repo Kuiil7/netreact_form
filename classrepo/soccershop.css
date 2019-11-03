@@ -1,0 +1,13 @@
+body{
+    background-color: gray
+}
+
+#sidebox{
+    position: fixed;
+    width:  150px;
+    height: 150px;
+    background-color:brown;
+    border: 2px solid black
+}
+    
+    
