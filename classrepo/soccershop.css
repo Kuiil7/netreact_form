@@ -3,6 +3,7 @@ body{
 }
 
 #sidebox{
+    float: left;
     position: fixed;
     width:  150px;
     height: 150px;
