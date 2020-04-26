@@ -1,5 +1,5 @@
-USE n2af2vk081zvdd0f;
-
+USE olhuovyqp0hukl7g;
+DROP TABLE IF EXISTS burgers;
 
 CREATE TABLE burgers (
 id int NOT NULL AUTO_INCREMENT,
