@@ -4,7 +4,6 @@ import '../styles/ContactForm.css'
 
 const ContactForm = () => (
   
-  <div id="contact" netlify className="bg-dark">
 
  
 <form name="contact" netlify>
@@ -18,7 +17,7 @@ const ContactForm = () => (
     <button type="submit">Send</button>
   </p>
 </form>
-  </div>
+ 
 
 )
 
