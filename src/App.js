@@ -7,6 +7,7 @@ import Footer from "./components/Footer";
 import ContactForm from "./components/ContactForm";
 
 class App extends Component {
+  
   render() {
     return (
       <div>

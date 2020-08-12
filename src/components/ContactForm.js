@@ -4,16 +4,9 @@ import '../styles/ContactForm.css'
 
 const ContactForm = () => (
   
-  <div id="contact-form1" netlify className="bg-dark">
+  <div id="contact-form1" className="bg-dark">
 
-<form name="contact" netlify netlify-honeypot="bot-field" hidden>
-  <input type="text" name="name" />
-  <input type="email" name="email" />
-  <textarea name="message"></textarea>
-</form>
-<input type="hidden" name="form-name" value="contact" />
-
-<form name="contact" method="post">
+<form name="contact" method="post" netlify >
           <input type="hidden" name="form-name" value="contact" />
           <p>
             <label>Your Name: <input type="text" name="name"/></label>
