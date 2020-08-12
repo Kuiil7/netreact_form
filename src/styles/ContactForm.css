@@ -37,10 +37,13 @@
 
 }
 
-
-
 #contact-me-title {
   font-size: 3.4em;
   color:white;
+}
+
+#contact {
+  color:white;
+  margin-top: 50px;
 
 }
