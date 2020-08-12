@@ -6,7 +6,7 @@ const ContactForm = () => (
   
 
  <div id="contact_form1">
-  <form name="contact" >
+  <form name="contact" netlify>
   <input type="text" name="name" />
   <input type="email" name="email" />
   <textarea name="message"></textarea>
