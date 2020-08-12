@@ -4,23 +4,52 @@ import '../styles/ContactForm.css'
 
 const ContactForm = () => (
   
-  <div id="contact-form1" className="bg-dark">
+  <div class="form-container" className="bg-dark">
 
-<form name="contact" method="post" netlify >
-          <input type="hidden" name="form-name" value="contact" />
-          <p>
-            <label>Your Name: <input type="text" name="name"/></label>
-          </p>
-          <p>
-            <label>Your Email: <input type="email" name="email"/></label>
-          </p>
-          <p>
-            <label>Message: <textarea name="message"></textarea></label>
-          </p>
-          <p>
-            <button type="submit">Send</button>
-          </p>
-        </form>
+ 
+  <form className="contact-form form-container"  method="POST" netlify>
+    <div>
+      <p>
+        <p id="contact-me-title" >
+CONTACT ME          </p>
+      </p>
+    </div>
+    <div className="form-field" >
+      <label htmlFor="name">
+        <div className="label-content">Name:</div>
+        <input type="text" name="name" required />
+      </label>
+    </div>
+
+    <div className="form-field">
+      <label htmlFor="email">
+        <div className="label-content">Email:</div>
+        <input type="email" name="email" required />
+      </label>
+    </div>
+
+    <div className="form-field">
+      <label htmlFor="message">
+        <div className="label-content">Message:</div>
+        <textarea className="stretch" name="message" rows="5" required />
+      </label>
+    </div>
+
+    <button className="btn" id="send_button" type="submit">Send</button>
+
+    <div>
+      { window.location.hash === '#success' &&
+        <div id="success">
+          <p>Your message has been sent!</p>
+        </div>
+      }
+      { window.location.hash === '#error' &&
+        <div id="error">
+          <p>An error occured while submitting the form.</p>
+        </div>
+      }
+    </div>
+  </form>
   </div>
 
 )

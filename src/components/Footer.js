@@ -5,7 +5,9 @@ function Contact() {
     
 
 <div id="footer" className="bg-dark">
-   <center> <p>&copy; 2020  J A M </p></center> 
+<center>
+Copyright © 2020 JAM. All Rights Reserved
+  </center>
   </div>
 
 
