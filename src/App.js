@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import MainContent from "./components/MainContent";
+import Home from "./components/Home";
 import Navbar from "./components/Navbar";
 import Aboutme from "./components/Aboutme";
 import Portfolio from "./components/Portfolio";
@@ -12,13 +12,10 @@ class App extends Component {
     return (
       <div>
       <Navbar />
-     <MainContent />  
+     <Home />  
       <Aboutme />
       <Portfolio />
-     
       <ContactForm />
-   
-
       <Footer />
     </div>  
     )

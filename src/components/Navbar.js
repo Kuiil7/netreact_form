@@ -3,7 +3,7 @@ import React from "react";
 function Navbar() {
   return (
           <nav className="navbar fixed-top navbar-expand-lg navbar-dark bg-dark">
-    <button className="navbar-brand btn" >J A M </button>
+    <a className="navbar-brand btn" href="/#home" >J A M </a>
     <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
       <span className="navbar-toggler-icon"></span>
     </button>
@@ -16,17 +16,13 @@ function Navbar() {
           <a className="nav-link" href="/#about">About </a>
         </li>
         <li className="nav-item">
-          <a className="nav-link" href="/#main_content">Contact</a>
+          <a className="nav-link" href="/#profile_main">Portfolio</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link" href="/#portfolio">Portfolio</a>
+          <a className="nav-link" href="/#contact1">Contact</a>
         </li>
-        <li className="nav-item">
-          <a className="nav-link" href="/#contact-form">Contact</a>
-        </li>
-        <li className="nav-item">
-          <a className="nav-link" href="/#footer">Contact</a>
-        </li>
+     
+ 
       </ul>
     </div>
   </nav>

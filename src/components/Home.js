@@ -1,12 +1,12 @@
 import React from "react";
-import "../styles/MainContent.css";
+import "../styles/Home.css";
 
 
-function MainContent() {
+function Home() {
   return (
     
 
-    <div id="main_content" className="bg-dark" >
+    <div id="home" className="bg-dark" >
 
    <center>
    <h1 id="name">J A M</h1>
@@ -36,4 +36,4 @@ function MainContent() {
   );
 }
 
-export default MainContent;
+export default Home;
