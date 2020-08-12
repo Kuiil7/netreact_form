@@ -6,10 +6,12 @@ const ContactForm = () => (
   
 
  <div id="contact_form1">
-  <form name="contact" netlify netlify-honeypot="bot-field" hidden>
+  <form name="contact" >
   <input type="text" name="name" />
   <input type="email" name="email" />
   <textarea name="message"></textarea>
+  <button type="submit">Send</button>
+
 </form>
  </div>
 
