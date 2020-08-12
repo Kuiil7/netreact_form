@@ -7,7 +7,7 @@ const ContactForm = () => (
   <div class="form-container" className="bg-dark">
 
  
-  <form className="contact-form form-container"  method="POST" netlify>
+  <form className="contact-form form-container"  method="post" data-netlify="true">
     <div>
       <p>
         <p id="contact-me-title" >
