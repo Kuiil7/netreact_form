@@ -1,12 +1,14 @@
-#main_content{
-    height: 600px;
-    color: white;
+#home{
+    height: 500px;
+    color: black;
+    margin-top: 150px;
+
 
 }
 
 #name {
     font-size: 12em;
-    color: white;
+    color: #424242;
 }
 
 #position {
@@ -18,7 +20,7 @@
 #location {
     
     font-weight: lighter;
-    color: white;
+    color:#424242;
     font-size: 22px;
 }
 
@@ -43,4 +45,9 @@ padding: 10px;
 #footer {
     height: 90px;
     color: white;
+}
+
+.fa{
+    color: #424242;
+    text-shadow: 2px 2px 5px  #424242; 
 }

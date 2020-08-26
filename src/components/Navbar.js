@@ -1,32 +1,37 @@
 import React from "react";
+import '../styles/Navbar.css'
+
+
 
 function Navbar() {
   return (
-          <nav className="navbar fixed-top navbar-expand-lg navbar-dark bg-dark">
-    <a className="navbar-brand btn" href="/#home" >J A M </a>
+
+          <nav className="navbar fixed-top
+          navbar-expand-sm navbar-light ">
     <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
       <span className="navbar-toggler-icon"></span>
     </button>
     <div className="collapse navbar-collapse" id="navbarNav">
-      <ul className="navbar-nav ml-auto">
+      
+      <ul className="navbar-nav  mx-auto">
         <li className="nav-item ">
-          <a className="nav-link" href="/#home">Home  </a>
+          <a className="nav-link" href="/#home">HOME </a>
         </li>
         <li className="nav-item">
-          <a className="nav-link" href="/#about">About </a>
+          <a className="nav-link" href="/#about">ABOUT </a>
         </li>
         <li className="nav-item">
-          <a className="nav-link" href="/#profile_main">Portfolio</a>
+          <a className="nav-link" href="/#profile_main">PORTFOLIO</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link" href="/#contact1">Contact</a>
+          <a className="nav-link" href="/#contact1">CONTACT</a>
         </li>
      
  
       </ul>
     </div>
   </nav>
- 
+
   );
 }
 

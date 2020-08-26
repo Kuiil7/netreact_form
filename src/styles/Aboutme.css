@@ -1,9 +1,17 @@
 #about {
-
-        height: 600px;
+        height: 500px;
         color: white;
+        padding-top: 50px;
 }
 
 #about_me {
         color: #f0ad4e;
+}
+
+#aboutme_p {
+       
+}
+
+#aboutme_title{
+        padding: 20px;
 }
