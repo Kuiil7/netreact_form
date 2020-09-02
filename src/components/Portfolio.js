@@ -37,7 +37,7 @@ function Portfolio () {
         <h5 className="card-title">Sports Tracker</h5>
         <p className="card-text">Sports Tracker, a website dedicated to the professional sports leagues of the United States (MLS pending). Features: stats, news, single league, individual teams, and a favorites function.</p>
         <p className="card-text">My core responsibility was layout, design, troubleshoot API calls.</p>
-        <p className="card-text"> Built with: <strong>NodeJs, NPM, JQuery, Bootstrap, Bulma, Ajax, JSON.</strong> </p>
+        <p className="card-text"> Built with: <strong>NodeJs, NPM, JQuery, Bootstrap, Bulma, Ajax, and JSON.</strong> </p>
       </div>
       <a href="https://github.com/SportsWarriorsGWU/Sports-Tracker/" className="btn btn-light bg-warning btn-1">REPO</a>
       <a href="https://sportswarriorsgwu.github.io/Sports-Tracker/" className="btn btn-dark">DEMO</a>
@@ -51,7 +51,7 @@ function Portfolio () {
         <h5 className="card-title">LingoLabs</h5>
         <p className="card-text"> A website where users can browse and shop for stock websites templates. </p>
         <p className="card-text"> My core responsibility was creating the registration page and technical details regarding the backend server. </p>
-        <p className="card-text"> Built with:<strong> NodeJs, NPM, Express.js, MongoDB, React.js, Mongoose, Passport.js, Socket.io, Heroku. </strong>
+        <p className="card-text"> Built with:<strong> NodeJs, NPM, Express.js, MongoDB, React.js, Mongoose, Passport.js, Socket.io, and Heroku. </strong>
  </p>
 
       </div>
@@ -83,8 +83,7 @@ JSON </strong>
       <div className="card-body">
         <h5 className="card-title">Eat-da-Burger </h5>
         <p className="card-text">This app, Eat-Da-Burger!, allows you to create a burger and log a list of items in a database. NodeJs and MySQL does the queries and routes while handlebars generates HTML content.</p>
-        <p className="card-text"> Built with:<strong> HTML5, CSS3, Handlebars, NodeJs, NPM, jQuery, Express.js, MySQL - MariaDB.
-JSON </strong> </p>
+        <p className="card-text"> Built with:<strong> HTML5, CSS3, Handlebars, NodeJs, NPM, jQuery, Express.js, MySQL, MariaDB, and JSON </strong> </p>
       </div>
       <a href="https://github.com/Kuiil7/Node-Express-Handlebars" className="btn btn-light bg-warning btn-1">REPO</a>
       
