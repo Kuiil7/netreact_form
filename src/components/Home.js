@@ -1,6 +1,5 @@
 import React from "react";
 import "../styles/Home.css";
-import ReactCSSTransitionGroup from 'react-transition-group'; // ES6
 
 
 
