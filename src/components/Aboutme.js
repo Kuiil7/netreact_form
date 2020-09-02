@@ -15,12 +15,34 @@ function Aboutme () {
  
     <h3 id="about_me"><i>"full stack developer"</i></h3>
     </center>
-    <div id="aboutme_p">
-    <p className="container">
-    In my experience, I always make things better.  My career began in Sales and Marketing with MCI WorldCom while a college undergrad specializing in telecommunications on a national scale. Through the years, I have worked for Sorenson, Z, and AT&T, and Gallaudet University. Most recently, I obtained my Master of Arts in linguistics. While there, I realized that coding has always been my passion. 
+    <div>
+    <p className="aboutme_p">
+    In my experience, I always make things better. I started my career in Telecommunications working for MCI WorldCom and AT&T Relay Services in a national capacity. Through my career coding was always a necessity that I always filled in. As a self-taught coder, the George Washington University Bootcamp has provided me with all the necessary foundation, skill, and tools to create and build from scratch. I am passionate about creating a productive user experience and build apps that are accessible and are low-cost.   </p>
 
+<p>
+Currently, I am focused on creating Progressive Web Apps and offline access. I am also very passionate the Android platform and ready for long-term commitment.
+</p>
+I bring the following to every project:
+<p>
+⦁ Introducing new concept and ideas
+⦁ Graphic design experience
+⦁ Technical expertise
+⦁ A dedicated problem-solver
+⦁ UX/UI design principles
+  
 
     </p>
+    <img src="https://i.imgrz.com/Yjwf.png" className="logo_size" alt="html5 logo"></img>
+    <img src="https://i.imgrz.com/YAlk.png" className="logo_size" alt="CSS3 logo"></img>
+    <img src="https://i.imgrz.com/YLb5.png" className="logo_size" alt="JavaScript logo"></img>
+    <img src=" https://i.imgrz.com/YrnT.png" className="logo_size" alt="JQuery logo"></img>
+    <img src="https://i.imgrz.com/Y88z.png" className="logo_size" alt="MongoDB logo"></img>
+    <img src="https://i.imgrz.com/YQud.png" className="logo_size" alt="Express logo"></img>
+    <img src="https://i.imgrz.com/YajO.png" className="logo_size" alt="NodeJs logo"></img>
+    <img src=" https://i.imgrz.com/YgIw.png" className="logo_size" alt="npm logo"></img>
+    <img src=" https://i.imgrz.com/YldS.png" className="logo_size" alt="ReactJs logo"></img>
+    <img src=" https://i.imgrz.com/YpbV.png" className="logo_size" alt="Adobe Illustrator logo"></img>
+    <img src="https://i.imgrz.com/Y27P.jpg" className="logo_size" alt="Photoshop logo"></img>
  
   </div>
   </div>

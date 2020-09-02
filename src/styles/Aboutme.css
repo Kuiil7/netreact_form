@@ -1,17 +1,25 @@
 #about {
-        height: 500px;
+        height: 760px;
         color: white;
         padding-top: 50px;
 }
 
 #about_me {
         color: #f0ad4e;
+        padding: 20px;
 }
 
-#aboutme_p {
-       
-}
+
 
 #aboutme_title{
         padding: 20px;
+}
+
+.logo_size {
+        height: 90px;
+        
+}
+
+.btn-1 {
+      margin: 1px;
 }

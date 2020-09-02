@@ -1,5 +1,7 @@
 import React from "react";
 import "../styles/Home.css";
+import ReactCSSTransitionGroup from 'react-transition-group'; // ES6
+
 
 
 function Home() {
@@ -9,7 +11,7 @@ function Home() {
     <div id="home" >
 
    <center>
-   <h1 id="name">JAM</h1>
+   <h1 id="name" >JAM</h1>
    <h2 id="position">full stack developer</h2>
    <h3 id="location">San Diego, CA </h3>
     <div id="socialContacts" className="row">
@@ -38,6 +40,7 @@ function Home() {
 </div>
 
      </center>
+   
   </div>
 
 

@@ -1,14 +1,14 @@
 #home{
     height: 500px;
     color: black;
-    margin-top: 150px;
-
-
+    margin-top: 130px;
 }
 
 #name {
     font-size: 12em;
     color: #424242;
+    transition: opacity 500ms ease-in;
+
 }
 
 #position {
@@ -51,3 +51,4 @@ padding: 10px;
     color: #424242;
     text-shadow: 2px 2px 5px  #424242; 
 }
+
