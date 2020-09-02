@@ -63,34 +63,34 @@ function Portfolio () {
   </div>
   <div className="col mb-4">
     <div className="card h-100  container shadow-lg p-3 mb-5 bg-white rounded ">
-      <img src="https://i.imgrz.com/6FV2.gif/" className="card-img-top" alt="notetaker demo" />
+      <img src="https://i.imgrz.com/6FV2.gif" className="card-img-top" alt="notetaker demo" />
       <div className="card-body">
         <h5 className="card-title">Note Taker</h5>
         <p className="card-text">This application was created to write, save, and delete text notes. This is for any type of user that wants to track any amount of information. Backend data is stored and retrieved in JSON format via Express.</p>
       </div>
-      <a href="https://github.com/Kuiil7/Note-Taker/" className="btn btn-light bg-warning btn-1">REPO</a>
+      <a href="https://github.com/Kuiil7/Note-Taker" className="btn btn-light bg-warning btn-1">REPO</a>
       
-      <a href="https://kuiil7.github.io/Note-Taker/" className="btn btn-dark">DEMO</a>
+      <a href="https://kuiil7.github.io/Note-Taker" className="btn btn-dark">DEMO</a>
 
     </div>
   </div>
   <div className="col mb-4">
     <div className="card h-100  container shadow-lg p-3 mb-5 bg-white rounded ">
-      <img src="https://i.imgrz.com/6GZN.gi/f" className="card-img-top" alt="movie magic signup" />
+      <img src="https://i.imgrz.com/6GZN.gif" className="card-img-top" alt="movie magic signup" />
       <div className="card-body">
         <h5 className="card-title">Eat-da-Burger </h5>
         <p className="card-text">This app, Eat-Da-Burger!, allows you to create a burger and log a list of items in a database. Node and MySQL does the queries and routes while handlebars generates HTML content.</p>
       </div>
-      <a href="https://github.com/Kuiil7/Node-Express-Handlebars/" className="btn btn-light bg-warning btn-1">REPO</a>
+      <a href="https://github.com/Kuiil7/Node-Express-Handlebars" className="btn btn-light bg-warning btn-1">REPO</a>
       
-      <a href="https://ancient-thicket-66505.herokuapp.com/index/" className="btn btn-dark bg-dark">DEMO</a>
+      <a href="https://ancient-thicket-66505.herokuapp.com/index" className="btn btn-dark bg-dark">DEMO</a>
 
     </div>
   
   </div>
   <div className="col mb-4">
     <div className="card h-100   container shadow-lg p-3 mb-5 bg-white rounded ">
-      <img src="https://i.imgrz.com/6Zpu.png/" className="card-img-top" alt="visual studio code with code" />
+      <img src="https://i.imgrz.com/6Zpu.png" className="card-img-top" alt="visual studio code with code" />
       <div className="card-body">
         <h5 className="card-title">Employee Tracker</h5>
         <p className="card-text">A command line, content management system app that allows you to view and interact with information stored in a database. The app allows you to add, vew, and update departments, roles, employees ideal for employee tracking.</p>

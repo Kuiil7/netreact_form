@@ -24,7 +24,7 @@ Currently, I am focused on creating Progressive Web Apps and offline access. I a
 </p>
 I bring the following to every project:
 <p>
-⦁ Introducing new concept and ideas
+⦁ Introducing new conceptd and ideas
 ⦁ Graphic design experience
 ⦁ Technical expertise
 ⦁ A dedicated problem-solver
