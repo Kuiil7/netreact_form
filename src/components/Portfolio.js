@@ -17,7 +17,7 @@ function Portfolio () {
         <p className="card-text">Find movies and fellow movie buffs (called "buddies") based on user input which is accessed upon signing up or logging in. </p>
         <p className="card-text">My core responsibility was creating the registration page where the user signups/logins, logout, and redirect (members page).
         </p>
-        <p className="card-text">Built with:<strong> Express.js, Node.js, Passport.js, MySQL, Moments.Js, Ajax, Sequelize, Dotenv, Console.Table, and Heroku. </strong>
+        <p className="card-text">Built with:<strong> Express.js, NodeJs, Passport.js, MySQL, Moments.Js, Ajax, Sequelize, Dotenv, Console.Table, and Heroku. </strong>
 
         </p>
         
@@ -37,7 +37,7 @@ function Portfolio () {
         <h5 className="card-title">Sports Tracker</h5>
         <p className="card-text">Sports Tracker, a website dedicated to the professional sports leagues of the United States (MLS pending). Features: stats, news, single league, individual teams, and a favorites function.</p>
         <p className="card-text">My core responsibility was layout, design, troubleshoot API calls.</p>
-        <p className="card-text"> Built with: <strong>JQuery, Bootstrap, Bulma, Ajax, JSON.</strong> </p>
+        <p className="card-text"> Built with: <strong>NodeJs, NPM, JQuery, Bootstrap, Bulma, Ajax, JSON.</strong> </p>
       </div>
       <a href="https://github.com/SportsWarriorsGWU/Sports-Tracker/" className="btn btn-light bg-warning btn-1">REPO</a>
       <a href="https://sportswarriorsgwu.github.io/Sports-Tracker/" className="btn btn-dark">DEMO</a>
@@ -51,7 +51,7 @@ function Portfolio () {
         <h5 className="card-title">LingoLabs</h5>
         <p className="card-text"> A website where users can browse and shop for stock websites templates. </p>
         <p className="card-text"> My core responsibility was creating the registration page and technical details regarding the backend server. </p>
-        <p className="card-text"> Built with:<strong> Node.js, Express.js, MongoDB, React.js, Mongoose, Passport.js, socket.io, Heroku. </strong>
+        <p className="card-text"> Built with:<strong> NodeJs, NPM, Express.js, MongoDB, React.js, Mongoose, Passport.js, socket.io, Heroku. </strong>
  </p>
 
       </div>
@@ -67,6 +67,9 @@ function Portfolio () {
       <div className="card-body">
         <h5 className="card-title">Note Taker</h5>
         <p className="card-text">This application was created to write, save, and delete text notes. This is for any type of user that wants to track any amount of information. Backend data is stored and retrieved in JSON format via Express.</p>
+        <p className="card-text"> Built with:<strong> HTML5, CSS3, Bootstrap, NodeJs, NPM, jQuery, Express.js, Ajax, and
+JSON </strong>
+ </p>
       </div>
       <a href="https://github.com/Kuiil7/Note-Taker" className="btn btn-light bg-warning btn-1">REPO</a>
       
@@ -79,7 +82,9 @@ function Portfolio () {
       <img src="https://i.imgrz.com/6GZN.gif" className="card-img-top" alt="movie magic signup" />
       <div className="card-body">
         <h5 className="card-title">Eat-da-Burger </h5>
-        <p className="card-text">This app, Eat-Da-Burger!, allows you to create a burger and log a list of items in a database. Node and MySQL does the queries and routes while handlebars generates HTML content.</p>
+        <p className="card-text">This app, Eat-Da-Burger!, allows you to create a burger and log a list of items in a database. NodeJs and MySQL does the queries and routes while handlebars generates HTML content.</p>
+        <p className="card-text"> Built with:<strong> HTML5, CSS3, Handlebars, NodeJs, NPM, jQuery, Express.js, MySQL - MariaDB.
+JSON </strong> </p>
       </div>
       <a href="https://github.com/Kuiil7/Node-Express-Handlebars" className="btn btn-light bg-warning btn-1">REPO</a>
       
@@ -94,6 +99,7 @@ function Portfolio () {
       <div className="card-body">
         <h5 className="card-title">Employee Tracker</h5>
         <p className="card-text">A command line, content management system app that allows you to view and interact with information stored in a database. The app allows you to add, vew, and update departments, roles, employees ideal for employee tracking.</p>
+        <p className="card-text"> Built with:<strong> NodeJs, NPM, InquirerJs, MySQL, and Console.table </strong> </p>
       </div>
       <a href="https://github.com/Kuiil7/Employee-Tracker/" className="btn btn-light bg-warning btn-1">REPO</a>
       <a href="https://github.com/Kuiil7/Employee-Tracker/" className="btn btn-dark">DEMO</a>
