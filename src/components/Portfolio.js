@@ -51,7 +51,7 @@ function Portfolio () {
         <h5 className="card-title">LingoLabs</h5>
         <p className="card-text"> A website where users can browse and shop for stock websites templates. </p>
         <p className="card-text"> My core responsibility was creating the registration page and technical details regarding the backend server. </p>
-        <p className="card-text"> Built with:<strong> NodeJs, NPM, Express.js, MongoDB, React.js, Mongoose, Passport.js, socket.io, Heroku. </strong>
+        <p className="card-text"> Built with:<strong> NodeJs, NPM, Express.js, MongoDB, React.js, Mongoose, Passport.js, Socket.io, Heroku. </strong>
  </p>
 
       </div>
