@@ -32,18 +32,7 @@ I bring the following to every project:
   
 
     </p>
-    <img src="https://i.imgrz.com/Yjwf.png" className="logo_size" alt="html5 logo"></img>
-    <img src="https://i.imgrz.com/YAlk.png" className="logo_size" alt="CSS3 logo"></img>
-    <img src="https://i.imgrz.com/YLb5.png" className="logo_size" alt="JavaScript logo"></img>
-    <img src=" https://i.imgrz.com/YrnT.png" className="logo_size" alt="JQuery logo"></img>
-    <img src="https://i.imgrz.com/Y88z.png" className="logo_size" alt="MongoDB logo"></img>
-    <img src="https://i.imgrz.com/YQud.png" className="logo_size" alt="Express logo"></img>
-    <img src="https://i.imgrz.com/YajO.png" className="logo_size" alt="NodeJs logo"></img>
-    <img src=" https://i.imgrz.com/YgIw.png" className="logo_size" alt="npm logo"></img>
-    <img src=" https://i.imgrz.com/YldS.png" className="logo_size" alt="ReactJs logo"></img>
-    <img src=" https://i.imgrz.com/YpbV.png" className="logo_size" alt="Adobe Illustrator logo"></img>
-    <img src="https://i.imgrz.com/Y27P.jpg" className="logo_size" alt="Photoshop logo"></img>
- 
+
   </div>
   </div>
   </div>
