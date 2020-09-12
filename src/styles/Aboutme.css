@@ -1,7 +1,7 @@
 #about {
-        height: 760px;
+        height: 1120px;
         color: white;
-        padding-top: 50px;
+        padding-top: 20px;
 }
 
 #about_me {
@@ -23,3 +23,10 @@
 .btn-1 {
       margin: 1px;
 }
+
+/* For Mobile */
+@media screen and (max-width: 540px) {
+        .view {
+            width: 400px;
+        }
+    }
