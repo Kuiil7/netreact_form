@@ -2,7 +2,7 @@
         height: 1120px;
         color: white;
         padding-top: 20px;
-        white-space: nowrap;
+        white-space: wrap;
         overflow: hidden;
 }
 
