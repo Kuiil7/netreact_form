@@ -29,6 +29,8 @@
 /* For Mobile */
 @media screen and (max-width: 540px) {
         .view {
-            width: 400px;
+         
+                height: 1320px;
+
         }
     }
