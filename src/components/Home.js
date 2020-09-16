@@ -2,7 +2,6 @@ import React from "react";
 import "../styles/Home.css";
 
 
-
 function Home() {
   return (
     
@@ -28,7 +27,8 @@ function Home() {
           
    </li>      <li className="list-inline-item">
 
-<a className="btn btn-outline-light btn-social text-center rounded-circle"  href="https://docs.google.com/document/d/1yiK77eufi8QnMuSaRbE9ydB4bbRxvwuuLPt3ClWFJ50/edit?usp=sharing" >
+
+<a className="btn btn-outline-light btn-social text-center rounded-circle"  href="https://docs.google.com/document/export?format=docx&id=1F_EZh4KYrfxbfYR_6iNQ_-FffVv4qDx2-2kgqL54P1M" > 
 <i class="fa fa-file-text fa-2x" aria-hidden="true"></i>
 
  </a>

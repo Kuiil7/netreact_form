@@ -12,8 +12,6 @@ function Aboutme () {
     <h2 id="aboutme_title">about me</h2>
     <img src="https://i.imgrz.com/vb6h.jpg" id="prof-img" alt="profile pic"></img>
 
- 
- 
     </center>
     <div>
     <p>
@@ -34,7 +32,7 @@ function Aboutme () {
 Currently, I am focused on creating Progressive Web Apps and offline access. I am also very passionate the Android platform and ready for long-term commitment.
 </p>
 <p>
-I bring: introducing new concepts and ideas | graphic design experience | technical expertise | a dedicated problem-solver | UX/UI design principles | Final Cut Pro | 
+I bring: introducing new concepts and ideas | graphic design experience | technical expertise | a dedicated problem-solver | UX/UI design principles | Final Cut Pro 
 </p>
 </div>
 </div>

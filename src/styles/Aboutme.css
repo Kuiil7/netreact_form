@@ -26,11 +26,3 @@
       margin: 1px;
 }
 
-/* For Mobile */
-@media screen and (max-width: 540px) {
-        .view {
-         
-                height: 1320px;
-
-        }
-    }
