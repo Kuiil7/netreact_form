@@ -1,6 +1,8 @@
+
+
 #about {
-        height: 1320px;
-        color: white;
+        height: 1020px;
+    
         padding-top: 20px;
         white-space: wrap;
         overflow: hidden;
@@ -15,7 +17,7 @@
 
 #aboutme_title{
         padding: 20px;
-}
+        color: #424242;}
 
 .logo_size {
         height: 90px;
@@ -26,3 +28,11 @@
       margin: 1px;
 }
 
+#prof-img {
+        margin: 20px;
+}
+
+.p_margin20 {
+        margin: 20px;
+
+}
