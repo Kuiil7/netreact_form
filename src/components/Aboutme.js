@@ -22,9 +22,37 @@ function Aboutme () {
      <p className="p_margin20" >
 Currently, I am focused on creating Progressive Web Apps and offline access. I am also very passionate the Android platform and ready for long-term commitment.
 </p>
-<p className="p_margin20" >
-I bring: introducing new concepts and ideas | graphic design experience | technical expertise | a dedicated problem-solver | UX/UI design principles | Final Cut Pro 
-</p>
+<div className="p_margin20" >
+I bring:
+<ul className="p_margin20" >
+<li>
+   Full Stack Development
+    </li>
+    <li>
+    Proven creativity skills
+    </li>
+    <li>
+    Graphic design experience 
+    </li>
+    <li>
+    Technical expertise
+    </li>
+    <li>
+     Dedicated problem-solver
+    </li>
+    <li>
+    UX/UI design principles 
+    </li>
+    <li>
+    Video Editing
+    </li>
+    <li>
+Photography
+    </li>
+
+
+</ul> 
+</div>
      <div className="container">
     <img src="https://i.imgrz.com/Yjwf.png" className="logo_size" alt="html5 logo"></img>
     <img src="https://i.imgrz.com/YAlk.png" className="logo_size" alt="CSS3 logo"></img>

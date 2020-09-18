@@ -2,13 +2,32 @@
     height: 500px;
     color: black;
     margin-top: 130px;
+    
+    
 }
 
+
+.fade-in {
+    animation: fadeIn ease 4s;
+  }
+
+  @keyframes fadeIn {
+    0% {
+      opacity:0;
+    }
+    100% {
+      opacity:1;
+    }
+  }
+  
+ 
+  
+  
+ 
 #name {
     font-size: 12em;
     color: #424242;
-    transition: opacity 500ms ease-in;
-
+  
 }
 
 #position {
