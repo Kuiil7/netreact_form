@@ -1,8 +1,9 @@
 #about {
-        height: 1020px;
+       
         padding-top: 20px;
         white-space: wrap;
-        overflow: hidden;    
+        overflow: hidden; 
+        margin-bottom: 20px;
 }
 
 #about_me {

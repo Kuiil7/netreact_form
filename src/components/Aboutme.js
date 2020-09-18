@@ -9,18 +9,18 @@ function Aboutme () {
           <div id="about" className="container ">
 
     <center>
-    <h2 id="aboutme_title">about me</h2>
+    <h2 id="aboutme_title">About Me</h2>
     <img src="https://i.imgrz.com/vb6h.jpg" id="prof-img" className="p_margin20" alt="profile pic"></img>
 
     </center>
     <div>
     <p className="p_margin20" >
-    In my experience, I always make things better. I started my career in Telecommunications with MCI WorldCom and AT&T Relay Services in a national capacity. Through my career coding was always a necessity that I always filled in. As a self-taught coder, the George Washington University Bootcamp has provided me with all the necessary foundation, skill, and tools to create and build from scratch. I am passionate about creating a productive user experience and build apps that are accessible and are low-cost.  
+    In my experience, I always make things better. I started my career in Telecommunications and Marketing with MCI WorldCom and most recently with AT&T Relay Services in a national capacity. Through my career coding was not only a necessity that I always filled in but a lifelong passion. Most recently, I obtained my professioal certification from the George Washington Coding Boot Camp that has provided me with all the necessary foundation, skill, and tools to create and build websites and applications from scratch. 
 
     
      </p>
      <p className="p_margin20" >
-Currently, I am focused on creating Progressive Web Apps and offline access. I am also very passionate the Android platform and ready for long-term commitment.
+Most recently, I have been working on creating Progressive Web Apps (PWAs)with and offline capability, and working nonstructural databases (MongoDB Atlas).
 </p>
 <div className="p_margin20" >
 I bring:
