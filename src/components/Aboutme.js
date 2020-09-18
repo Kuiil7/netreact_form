@@ -54,7 +54,7 @@ Photography
 </ul> 
 </div>
      <div className="container">
-    <img src="https://i.imgrz.com/Yjwf.png" className="logo_size" alt="html5 logo"></img>
+    <img src="https://i.imgrz.com/Yjwf.png" className="logo_size " alt="html5 logo"></img>
     <img src="https://i.imgrz.com/YAlk.png" className="logo_size" alt="CSS3 logo"></img>
     <img src="https://i.imgrz.com/YLb5.png" className="logo_size" alt="JavaScript logo"></img>
     <img src=" https://i.imgrz.com/YrnT.png" className="logo_size" alt="JQuery logo"></img>
