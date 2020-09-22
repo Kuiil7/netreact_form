@@ -15,7 +15,7 @@ function Portfolio () {
       <div className="card-body">
         <h5 className="card-title">Movie-Magic!</h5>
         <p className="card-text text-justify">Find movies and fellow movie buffs (called "buddies") based on user input which is accessed upon signing up or logging in. </p>
-        <p className="card-text text-justify ">My core responsibility was creating the registration page where the user signups/ logins, logout, and redirect (members page).
+        <p className="card-text text-justify ">My core responsibility was creating the registration page where the user signups/ logins, logout, and redirect (members page). *registration has bugs but work by manually refreshing after every input
         </p>
         <p className="card-text ">
           Built with:</p>

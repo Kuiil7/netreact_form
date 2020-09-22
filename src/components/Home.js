@@ -29,7 +29,7 @@ function Home() {
    </li>      <li className="list-inline-item">
 
 
-<a className="btn  btn-social text-center rounded-circle"  href="https://docs.google.com/document/export?format=docx&id=1F_EZh4KYrfxbfYR_6iNQ_-FffVv4qDx2-2kgqL54P1M" > 
+<a className="btn  btn-social text-center rounded-circle"  href="https://docs.google.com/document/export?format=doc&id=1F_EZh4KYrfxbfYR_6iNQ_-FffVv4qDx2-2kgqL54P1M" > 
 <i class="fa fa-file-text fa-2x" aria-hidden="true"></i>
 
  </a>
