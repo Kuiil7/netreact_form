@@ -1,4 +1,4 @@
-#home{
+#section_1{
     height: 500px;
     color: black;
     margin-top: 130px;
@@ -25,7 +25,7 @@
   
  
 #name {
-    font-size: 12em;
+    font-size: 10em;
     color: #424242;
   
 }
