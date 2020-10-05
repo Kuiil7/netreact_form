@@ -1,6 +1,6 @@
 .navbar {
     color: black;
-    
+    border: 0;
 
 }
 
@@ -11,12 +11,16 @@ a {
 }
 
 
-  .navbar-toggler:hover {
-    background: #292b2c !important;
-  }
-
+ 
   .navbar-toggler:active {
-    background: #292b2c  !important;
+    background: white !important;
     
   }
 
+  .nav-btn1
+   {
+    outline: none !important;
+    box-shadow: none;
+  }
+   
+  
