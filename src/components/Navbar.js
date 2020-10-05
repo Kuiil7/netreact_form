@@ -6,10 +6,12 @@ import '../styles/Navbar.css'
 function Navbar() {
   return (
 
-          <nav className="navbar fixed-top
-          navbar-expand-sm navbar-light ">
-    <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-      <span className="navbar-toggler-icon"></span>
+    <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light">
+
+    <a class="navbar-brand " href="home">JAM</a>
+    <button class="navbar-toggler btn .btn-outline-*  " type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+
+      <span class="navbar-toggler-icon  "></span>
     </button>
     <div className="collapse navbar-collapse" id="navbarNav">
       

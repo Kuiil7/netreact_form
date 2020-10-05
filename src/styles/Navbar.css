@@ -6,6 +6,17 @@
 
 a {
     color: black;
-    font-weight: lighter;
-    font-size: 1.2em;
+    font-weight: normal;
+    font-size: 1 em;
 }
+
+
+  .navbar-toggler:hover {
+    background: #292b2c !important;
+  }
+
+  .navbar-toggler:active {
+    background: #292b2c  !important;
+    
+  }
+
