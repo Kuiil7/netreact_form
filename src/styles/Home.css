@@ -10,7 +10,7 @@
     #home {
         background-image: url("https://i.imgrz.com/M27x.jpg");
         background-repeat: no-repeat;
-      background-size: c ;
+      background-size: cover ;
     }
   }
 @media (min-width: 481px) {
