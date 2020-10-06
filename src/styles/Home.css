@@ -4,8 +4,23 @@
     margin-top: 130px;
     background-image: url("https://i.imgrz.com/M27x.jpg");
     background-size: cover;
+ 
 }
 
+@media (max-width: 500px) {
+    #home {
+        background-image: url("https://i.imgrz.com/M27x.jpg");
+        background-repeat: no-repeat;
+      background-size: contain ;
+    }
+  }
+@media (min-width: 481px) {
+    #home {
+      background-image: url("https://i.imgrz.com/M27x.jpg");
+      background-repeat: no-repeat;
+      background-size: cover ;
+    }
+  }
 
 .fade-in {
     animation: fadeIn ease 5s;
