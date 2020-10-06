@@ -2,6 +2,8 @@
     height: 500px;
     color: black;
     margin-top: 130px;
+    background-image: url("https://i.imgrz.com/M27x.jpg");
+    background-size: cover;
 }
 
 
@@ -23,7 +25,7 @@
  
 #name {
     font-size: 10em;
-    color: #424242;
+    color: white;
   
 }
 
@@ -31,12 +33,13 @@
     font-style: italic;
     font-size: 2em;
     color: #f0ad4e;
+    margin-top: 150px;
 }
 
 #location {
     
     font-weight: lighter;
-    color:#424242;
+    color: white;
     font-size: 22px;
 }
 
@@ -45,6 +48,7 @@
 align-items: space-between;
 justify-content: center;
 padding: 10px;
+
 
 
 }
@@ -64,7 +68,7 @@ padding: 10px;
 }
 
 .fa{
-    color: #424242;
+    color:  white;
     text-shadow: 2px 2px 5px  #424242; 
 }
 

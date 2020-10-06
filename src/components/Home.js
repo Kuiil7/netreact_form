@@ -11,7 +11,7 @@ function Home() {
 
    <center>
    <h1 id="name" className="fade-in" >JAM</h1>
-   <h2 id="position">full stack developer</h2>
+   <h2 id="position">Full Stack Developer</h2>
    <h3 id="location">San Diego, CA </h3>
     <div id="socialContacts" className="row">
    
@@ -30,7 +30,7 @@ function Home() {
 
 
 <a className="btn  btn-social text-center rounded-circle"  href="https://docs.google.com/document/export?format=doc&id=1F_EZh4KYrfxbfYR_6iNQ_-FffVv4qDx2-2kgqL54P1M" > 
-<i class="fa fa-file-text fa-2x" aria-hidden="true"></i>
+<i className="fa fa-file-text fa-2x" aria-hidden="true"></i>
 
  </a>
 
