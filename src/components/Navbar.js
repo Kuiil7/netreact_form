@@ -8,7 +8,7 @@ function Navbar() {
 
     <nav className="navbar fixed-top navbar-expand-lg navbar-light bg-light">
 
-    <a class="navbar-brand " href="home">JAM</a>
+    <a className="navbar-brand " href="home">JAM</a>
     <button className="nav-btn1 navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span className="navbar-toggler-icon"></span>
 </button>

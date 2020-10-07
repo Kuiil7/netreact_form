@@ -11,16 +11,19 @@ function Aboutme () {
     <center>
     <h2 id="aboutme_title">About Me</h2>
     <img src="https://i.imgrz.com/vb6h.jpg" id="prof-img" className="p_margin20" alt="profile pic"></img>
+    <h2>Joey Aguilera Merino</h2>
 
     </center>
     <div>
     <p className="p_margin20" >
-    In my experience, I always make things better. I started my career in Telecommunications and Marketing with MCI WorldCom and most recently with AT&T Relay Services in a national capacity. Through my career coding was not only a necessity that I always filled in but a lifelong passion. Most recently, I obtained my professioal certification from the George Washington Coding Boot Camp that has provided me with all the necessary foundation, skill, and tools to create and build websites and applications from scratch. 
-
-    
-     </p>
+    Endless pursuit of perfection – that is my motivation. I am always looking for ways to move an organization to the next level and have done that throughout my career. 
+    </p>
      <p className="p_margin20" >
-Most recently, I have been working on creating Progressive Web Apps (PWAs)with and offline capability, and working nonstructural databases (MongoDB Atlas).
+     I began at Telecommunications and Marketing with MCI WorldCom and more recently AT&T Relay Services in a national capacity. Coding was not only a necessity in these roles, it has been my lifelong passion. To continue improving these skills I enrolled in the George Washington Coding Boot Camp and obtained my professional certification. This program provided me the foundation, skills and tools to create and build websites and applications from the ground up.
+</p>
+<p className="p_margin20" >
+My most recent work has been the creation of Progressive Web Apps (PWAs) with offline capability, and working nonstructural databases (MongoDB Atlas).
+
 </p>
 <div className="p_margin20" >
 I bring:
