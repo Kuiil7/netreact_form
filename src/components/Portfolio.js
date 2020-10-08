@@ -7,8 +7,8 @@ function Portfolio () {
   
        
  
-<div id="profile_main" className="row row-cols-1 row-cols-md-3 bg-light">
-<div className="col mb-4">
+<div id="profile_main" className="row row-cols-1 row-cols-md-3 bg-light" >
+<div className="col mb-4"  aria-hidden="false" >
    
     <div className="card h-100  container shadow-lg p-3 mb-4 bg-white rounded ">
       <img src="https://i.imgrz.com/6DHL.png" className="card-img-top" alt="movie magic signup" />

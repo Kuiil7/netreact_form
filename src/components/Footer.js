@@ -4,7 +4,7 @@ function Contact() {
   return (
     
 
-<div id="footer" className="bg-dark">
+<div id="footer" className="bg-dark"  aria-hidden="false">
 <center>
 © 2020 JAM
   </center>

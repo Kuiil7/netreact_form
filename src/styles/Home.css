@@ -3,7 +3,6 @@
     color: black;
     margin-top: 50px;
     background-size: cover;
- 
 }
 
 @media (max-width: 500px) {
@@ -34,7 +33,12 @@
     }
   }
   
- 
+ i, .fa {
+     
+    outline: none !important;
+    box-shadow: none;
+
+ }
   
  
 #name {

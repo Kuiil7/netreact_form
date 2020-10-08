@@ -5,7 +5,7 @@ import "../styles/Aboutme.css";
 function Aboutme () {
   return (
 
-    <div id="about" >
+    <div id="about"  aria-hidden="false" >
           <div id="about" className="container ">
 
     <center>

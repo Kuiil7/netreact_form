@@ -5,7 +5,7 @@ import '../styles/ContactForm.css'
 const ContactForm = () => (
   
 
-<div id="contact1" className="bg-dark">
+<div id="contact1" className="bg-dark"  aria-hidden="false">
 
 <form name="contact" className="contact-form" method="post" netlify="true">
     <p id="contact-me-title" className="text-center">
