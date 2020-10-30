@@ -12,6 +12,8 @@ function Home() {
    <center>
    <h1 id="name" className="fade-in" >JAM</h1>
    <h2 id="position">Full Stack Developer</h2>
+   <h5 id="email" className="text-white">jgamerino@gmail.com</h5>
+
    <h3 id="location">San Diego, CA </h3>
     <div id="socialContacts" className="row">
    
@@ -19,18 +21,18 @@ function Home() {
 <li className="list-inline-item">
 
           <a className="btn  btn-social text-center rounded-circle" href="https://github.com/Kuiil7"> 
-          <i className="fa fa-fw fa-github fa-2x" ></i></a>
+          <i className="fa fa-fw fa-github fa-2x" > </i><p className="text-white">GitHub</p></a>
           </li> 
      <li className="list-inline-item">
 
           <a className="btn  btn-social text-center rounded-circle" href="https://www.linkedin.com/in/joey-aguilera-merino-8298b6193/">
-              <i className="fa fa-linkedin fa-2x" ></i> </a>
+              <i className="fa fa-linkedin fa-2x" > </i><p className="text-white"> linkedin</p> </a>
           
    </li>      <li className="list-inline-item">
 
 
 <a className="btn  btn-social text-center rounded-circle"  href="https://onedrive.live.com/download?cid=657CABE1B252F7DF&resid=657CABE1B252F7DF%212009&authkey=ADu8A0SMy0D98-E" > 
-<i class="fa fa-file-text fa-2x" ></i>
+<i class="fa fa-file-text fa-2x" > </i> <p className="text-white"> Resume</p>
 
  </a>
 

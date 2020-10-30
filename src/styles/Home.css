@@ -1,8 +1,8 @@
 #home {
-    height: 500px;
-    color: black;
+    height: 550px;
     margin-top: 50px;
     background-size: cover;
+    
 }
 
 @media (max-width: 500px) {
@@ -52,6 +52,7 @@
     font-size: 2em;
     color: #f0ad4e;
     margin-top: 150px;
+
 }
 
 #location {
@@ -61,11 +62,16 @@
     font-size: 22px;
 }
 
+#email {
+  font-weight: lighter;
+
+}
+
+
 #socialContacts {
     display: flex;
 align-items: space-between;
 justify-content: center;
-padding: 10px;
 
 
 
@@ -80,10 +86,7 @@ padding: 10px;
 }
 
 
-#footer {
-    height: 90px;
-    color: white;
-}
+
 
 .fa{
     color:  white;
