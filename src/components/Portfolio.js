@@ -38,9 +38,9 @@ function Portfolio () {
       <img src="https://i.imgrz.com/6mBE.png" className="card-img-top" alt="four sports icon" />
       <div className="card-body">
         <h5 className="card-title">Sports Tracker</h5>
-        <p className="card- text-justify">Sports Tracker, a website dedicated to the professional sports leagues of the United States (MLS pending). Features: stats, news, single league, individual teams, and a favorites function.</p>
-        <p className="card- text-justify">My core responsibility was layout, design, troubleshoot API calls.</p>
-        <p className="card- text-justify"> Built with: </p> 
+        <p className="card-text text-justify">Sports Tracker, a website dedicated to the professional sports leagues of the United States (MLS pending). Features: stats, news, single league, individual teams, and a favorites function.</p>
+        <p className="card-text text-justify">My core responsibility was layout, design, troubleshoot API calls.</p>
+        <p className="card-text text-justify"> Built with: </p> 
         <p> <strong>NodeJs, NPM, JQuery, Bootstrap, Bulma, Ajax, and JSON.</strong> </p>
       </div>
       <a href="https://github.com/SportsWarriorsGWU/Sports-Tracker/" className="btn btn-light bg-warning btn-1">REPO</a>
@@ -50,12 +50,12 @@ function Portfolio () {
   </div>
   <div className="col mb-4">
     <div className="card h-100  container shadow-lg p-3 mb-5 bg-white rounded ">
-      <img src="https://i.imgrz.com/6nKh.png" className="card-img-top" alt="website lananding page" />
+      <img src="https://i.imgrz.com/6nKh.png" className="card-img-top" alt="website landing page" />
       <div className="card-body">
         <h5 className="card-title">LingoLabs</h5>
-        <p className="card- text-justify"> A website where users can browse and shop for stock websites templates. </p>
-        <p className="card- text-justify"> My core responsibility was creating the registration page and technical details regarding the backend server. </p>
-        <p className="card- text-justify"> Built with:
+        <p className="card-text text-justify"> A website where users can browse and shop for stock websites templates. </p>
+        <p className="card-text text-justify"> My core responsibility was creating the registration page and technical details regarding the backend server. </p>
+        <p className="card-text text-justify"> Built with:
         </p>
         <p><strong> NodeJs, NPM, Express.js, MongoDB, React.js, Mongoose, Passport.js, Socket.io, and Heroku. </strong>
  </p>
@@ -107,8 +107,8 @@ JSON </strong>
       <img src="https://i.imgrz.com/6Zpu.png" className="card-img-top" alt="visual studio code with code" />
       <div className="card-body">
         <h5 className="card-title">Employee Tracker</h5>
-        <p className="card- text-justify">A command line, content management system app that allows you to view and interact with information stored in a database. The app allows you to add, vew, and update departments, roles, employees ideal for employee tracking.</p>
-        <p className="card- text-justify"> Built with:
+        <p className="card-text text-justify">A command line, content management system app that allows you to view and interact with information stored in a database. The app allows you to add, vew, and update departments, roles, employees ideal for employee tracking.</p>
+        <p className="card-text text-justify"> Built with:
         </p><p>
           <strong> NodeJs, NPM, InquirerJs, MySQL, and Console.table </strong> </p>
       </div>
