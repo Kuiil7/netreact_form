@@ -78,11 +78,10 @@ justify-content: center;
 }
 
 #prof-img {
-	height: 150px;
+	height: 350px;
     border-radius: 50%;
-    display: flex;
-    justify-content: center;
-    border: 5px solid #ddd;   
+    border: 5px solid #ddd; 
+    align-items: center;  
 }
 
 

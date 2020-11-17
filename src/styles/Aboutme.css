@@ -32,3 +32,10 @@
         text-align: justify;
 }
 
+.card-text {
+ font-size: smaller;
+ width: auto;
+ margin: 20px;
+
+
+}
