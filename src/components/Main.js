@@ -43,49 +43,66 @@ function Main () {
 </div>
 </nav>
 
-<section id="section1">
-<div id="home" aria-hidden="false">
+<section id="section1" aria-hidden="false">
       
+<div>
+<h1 id="name" className="fade-in" >JGAMWORKS</h1>
+</div>
 
-  
-      <h1 id="name" className="fade-in" >JAM</h1>
-      <h2 id="position">Full Stack Developer</h2>
+  <div id="contact_info">
+  <h2 id="position">Full Stack Developer</h2>
       <a href="mailto:jgamerino@gmail.com"className="text-white" id="email" >
-        <h5>
+        <h5 >
         jgamerino@gmail.com
           </h5>
           </a>
    
-      <h6 id="location">San Diego, CA </h6>
-       <div id="socialContacts" className="row">
-      
-        
-   <li className="list-inline-item">
-   
-             <a className="btn  btn-social text-center rounded-circle" href="https://github.com/Kuiil7"> 
-             <i className="fa fa-fw fa-github fa-2x" > </i><p className="text-white">GitHub</p></a>
-             </li> 
-        <li className="list-inline-item">
-   
-             <a className="btn  btn-social text-center rounded-circle" href="https://www.linkedin.com/in/joey-aguilera-merino-8298b6193/">
-                 <i className="fa fa-linkedin fa-2x" > </i><p className="text-white"> LinkedIn</p> </a>
-             
-      </li>      <li className="list-inline-item">
-   
-   
-   <a className="btn  btn-social text-center rounded-circle"  href="https://onedrive.live.com/download?cid=657CABE1B252F7DF&resid=657CABE1B252F7DF%212009&authkey=ADu8A0SMy0D98-E" > 
-   <i class="fa fa-file-text fa-2x" > </i> <p className="text-white"> Resume</p>
-   
-    </a>
-   
-   </li>       
-   
+      <h6 id="location" className="text-white">San Diego, CA </h6>
+
+  
+
+
+
+</div>
+
+
+
+
     
-   </div>
+
    
      
-     </div>
+   
 </section>
+<section>
+<div className=" bg-warning " id="contact_info1">    
+<center>   
+<div className="row">
+  <div className="col-4 col-sm-4">
+    <a className="btn    rounded-circle" href="https://github.com/Kuiil7"> 
+        <h5 >GitHub</h5>
+    </a>
+    </div>
+  <div className="col-4 col-sm-4">
+
+    <a className="btn    rounded-circle" href="https://www.linkedin.com/in/joey-aguilera-merino-8298b6193/">
+        <h5 > LinkedIn</h5>
+     </a>
+    </div>
+  <div className="col-4 col-sm-4">
+    <a className="btn   "  href="https://onedrive.live.com/download?cid=657CABE1B252F7DF&resid=657CABE1B252F7DF%212009&authkey=ADu8A0SMy0D98-E" > 
+        <h5 > Resume</h5> 
+    </a>
+       
+    </div>
+</div>
+</center>
+
+
+</div>
+  
+</section>
+
 <div id="section2"  aria-hidden="false" >
           <div id="about" className="container ">
 
@@ -163,12 +180,19 @@ Photography
 <section id="section3">
 <div className="container">
   <h1 className="margin_20">PORTFOLIO</h1>
-  <div className="row">
+  <div className="row margin_50">
     <div className="col">
         <h4>LingoLabs</h4>
         < img className="img-wrapper" src={lingolabs}  alt="project lingolabs landingpage">
     </img>
-    <h5 className="card-title">LingoLabs</h5>
+    <div className="btn_row ">
+
+
+<a href="https://github.com/ShawnWhy/LingoLabs" className="btn btn-light bg-warning btn-1">REPO</a>
+ 
+     <a href="https://shawnyulingolabsmaster.herokuapp.com/" className="btn btn-dark">DEMO</a>
+
+   </div>
         <p className="card-text text-justify"> A website where users can browse and shop for stock websites templates. </p>
         <p className="card-text text-justify"> My core responsibility was creating the registration page and technical details regarding the backend server. </p>
         <p className="card-text text-justify"> Built with:
@@ -176,18 +200,10 @@ Photography
        <strong> NodeJs, NPM, Express.js, MongoDB, React.js, Mongoose, Passport.js, Socket.io, and Heroku. </strong>
  </p>
 
- <div className="btn_row">
-
-
- <a href="https://github.com/ShawnWhy/LingoLabs" className="btn btn-light bg-warning btn-1">REPO</a>
-  
-      <a href="https://shawnyulingolabsmaster.herokuapp.com/" className="btn btn-dark">DEMO</a>
-
-    </div>
     </div>
 
     <div class="w-100"></div>
-    <div className="col margin_10">
+    <div className="col margin_50">
             <h4>Movie Magic</h4>
             
     < img className="img-wrapper" src={movie_magic}  alt="project movie app with popcorn background">
@@ -212,7 +228,7 @@ Photography
     <div className="w-100">
       
     </div>
-    <div className="col margin_10 ">         
+    <div className="col margin_50 ">         
     <h4>Sports Tracker</h4>    
             < img className="img-wrapper" src={sports_tracker}  alt="landing page">
             </img>
@@ -226,7 +242,7 @@ Photography
       <a href="https://sportswarriorsgwu.github.io/Sports-Tracker/" className="btn btn-dark">DEMO</a>
     </div>
     </div>
-    <div class="w-100"></div>
+    <div className="w-100"></div>
     <div className="col margin_10 ">
     <h4>Node-Express-Handlebars</h4>
             
