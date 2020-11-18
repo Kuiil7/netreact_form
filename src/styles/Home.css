@@ -1,7 +1,8 @@
 #section1 {
-    height: 550px;
+    height: 450px;
     background-size: cover;
     position: relative;
+    
     
 }
 
@@ -10,6 +11,7 @@
         background-image: url("https://i.imgrz.com/M27x.jpg");
         background-repeat: no-repeat;
       background-size: cover ;
+      
     }
   }
 @media (min-width: 481px) {

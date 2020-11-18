@@ -16,11 +16,11 @@
         color: #424242;}
 
 .logo_size {
-        height: 90px;     
+        height: 80px;     
 }
 
 .btn-1 {
-      margin: 1px;
+      margin: 5px;
 }
 
 #prof-img {
@@ -32,10 +32,3 @@
         text-align: justify;
 }
 
-.card-text {
- font-size: smaller;
- width: auto;
- margin: 20px;
-
-
-}
