@@ -1,0 +1,8 @@
+a,  :visited{ 
+    outline: 0;
+    outline: none;
+}
+button:hover, :active, :focus{
+    outline: 0;
+    outline: none;
+}
