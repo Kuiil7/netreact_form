@@ -3,26 +3,12 @@
     height: 450px;
     background-size: 100% 100%;;
     position: relative;
+    background-image: url("../images/SD_Landscape_1200px.jpg");
+
     
     
 }
 
-@media (max-width: 500px) {
-    #section1 {
-        background-image: url("https://i.imgrz.com/M27x.jpg");
-        background-repeat: no-repeat;
-      background-size: 100% 100%; ;
-      
-      
-    }
-  }
-@media (min-width: 481px) {
-    #section1 {
-      background-image: url("https://i.imgrz.com/M27x.jpg");
-      background-repeat: no-repeat;
-      background-size: 100% 100%; ;
-    }
-  }
 
 .fade-in {
     animation: fadeIn ease 5s;
